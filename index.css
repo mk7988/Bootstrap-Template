@@ -1,0 +1,98 @@
+.container{
+    background-image: url(first.jpg);
+    background-repeat: no-repeat;
+}
+.abc{
+    display: flex;
+    gap: 6px;
+}
+.home{
+    height: 24rem;
+}
+.buy{
+    background-color: rgb(24, 92, 92);
+}
+.home2{
+    height: 20rem;
+}
+.chair{
+    background-image: url(chair.jpg);
+}
+.text{
+ color: white;
+}
+.meet{
+    text-align: center;
+    color: blue;
+}
+.meet1{
+    text-align: center;
+}
+.v{
+    
+    width: 190px;
+    height: 190px;
+    border:2px solid #fff;
+   
+    -moz-box-shadow: 0px 6px 5px #ccc;
+    -webkit-box-shadow: 0px 6px 5px #ccc;
+    box-shadow: 0px 6px 5px #ccc;
+    -moz-border-radius:190px;
+    -webkit-border-radius:190px;
+    border-radius:190px;
+  
+}
+.page{
+   
+    font-weight: bold;
+
+
+ }
+ 
+ p.solid {border-style: solid ;
+    border-color: #fff;
+    width: 175px;
+    padding: 11px;
+}
+.PAGE1{
+    background: url(cactus.jpg) no-repeat center/cover;
+    
+    padding: 100px;
+}
+.PAGE2{
+    background: url(table.jpg) no-repeat center/cover;
+    
+    padding: 100px;
+}
+.ghar{
+    height: 20rem;
+}
+.blue{
+    background-image: url(first1.jpg);
+}
+
+
+.sectionend{
+    background-color: rgb(194, 229, 217);
+    height: 70%;
+    text-align: center;
+}
+.ribbonn{
+    color: cadetblue;
+    font-size: 64px;
+}
+.s{
+  color: rgb(255, 255, 0);  
+  font-size: 18px;
+}
+
+
+
+
+
+.o{
+    font-size: 30px;
+}
+.a{
+    font-size: 12px;
+}
